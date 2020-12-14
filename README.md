@@ -1,16 +1,30 @@
-### Hi there 👋
+### Helloooo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<!--
-**Maksim1108/Maksim1108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, my name is [Maksim](https://maksim1108.github.io/MyPortfolio/), I'm Front-end Web Developer from Moscow.
 
-Here are some ideas to get you started:
+<img align="right" alt="GIF" src="./code.gif" width="500" height="320" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+  
+**About me:**
+
+- 🔭 I’m currently working on something cool 😉
+- 🌱 I’m currently learning React Native 
+- 💬 Ask me about anything, I am happy to help
+- 📫 How to reach me: [@maksim_lyanko](https://t.me/maksim_lyanko)
+- 📝[Resume](https://career.habr.com/maksim-lyanko)
+
+**Languages and Tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
+<br />
+
+📈 **My GitHub Stats:**
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maksim1108&layout=compact&hide_border=true&)](https://github.com/Maksim1108) [<img src="https://github-readme-stats.vercel.app/api?username=Maksim1108&show_icons=true&hide_border=true">](https://github.com/Maksim1108)
+
