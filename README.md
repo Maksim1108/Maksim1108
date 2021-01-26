@@ -1,6 +1,6 @@
 ### Helloooo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-Hi, my name is [Maksim](https://drive.google.com/file/d/147SHcD16QT7CvOuKYllobg2rQxBvgk5R/view), I'm Front-end Web Developer from Moscow.
+Hi, my name is [Maksim](https://drive.google.com/file/d/147SHcD16QT7CvOuKYllobg2rQxBvgk5R/view?usp=sharing), I'm Front-end Web Developer from Moscow.
 
 <img align="right" alt="GIF" src="./code.gif" width="500" height="320" />
 
@@ -12,7 +12,7 @@ Hi, my name is [Maksim](https://drive.google.com/file/d/147SHcD16QT7CvOuKYllobg2
 - 🌱 I’m currently learning React Native 
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: [@maksim_lyanko](https://t.me/maksim_lyanko)
-- 📝[Resume](https://drive.google.com/file/d/147SHcD16QT7CvOuKYllobg2rQxBvgk5R/view)
+- 📝[Resume](https://drive.google.com/file/d/147SHcD16QT7CvOuKYllobg2rQxBvgk5R/view?usp=sharing)
 
 **Languages and Tools:**  
 
