@@ -10,7 +10,6 @@ Hi, my name is [Maksim](https://drive.google.com/file/d/147SHcD16QT7CvOuKYllobg2
 - 🌱 I’m currently learning React Native 
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: [@maksim_lyanko](https://t.me/maksim_lyanko)
-- 📝[Resume](https://drive.google.com/file/d/147SHcD16QT7CvOuKYllobg2rQxBvgk5R/view?usp=sharing)
 
 **Languages and Tools:**  
 
